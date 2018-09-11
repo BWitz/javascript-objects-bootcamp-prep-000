@@ -1,6 +1,6 @@
 var playlist = {
-  'Slowdive': "Reptilia",
-  'My Bloody Valentine': "Are you gonna be my girl",
+  'Slowdive': "Alison",
+  'My Bloody Valentine': "",
   'Phil Ochs': "Lizstomania"
 };
 
