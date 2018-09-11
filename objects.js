@@ -7,3 +7,5 @@ var playlist = {
 function updatePlaylist(playlist, artist, song) {
   Object.assign({}, playlist, {Gorillaz: "Dare"}, {Danzig: "Mother"})
 }
+
+functionremove
