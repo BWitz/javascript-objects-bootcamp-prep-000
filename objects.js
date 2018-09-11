@@ -1,7 +1,7 @@
 var playlist = {
-  The_Strokes: "Reptilia",
-  Jet: "Are you gonna be my girl",
-  Phoenix: "Lizstomania"
+  'Slowdive': "Reptilia",
+  'My Bloody Valentine': "Are you gonna be my girl",
+  'Phil Ochs': "Lizstomania"
 };
 
 function updatePlaylist(playlist, artist, song) {
