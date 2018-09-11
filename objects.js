@@ -1,7 +1,7 @@
 var playlist = {
   'Slowdive': "Alison",
   'My Bloody Valentine': "Tears Don't Fall",
-  'Phil Ochs': "Lizstomania"
+  'Phil Ochs': "Power and the Glory"
 };
 
 function updatePlaylist(playlist, artist, song) {
