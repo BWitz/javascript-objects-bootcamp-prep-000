@@ -5,5 +5,5 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artist, song) {
-  playlist.assign()
+  playlist.assign({Gorillaz: "Dare"}, {})
 }
